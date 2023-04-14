@@ -1,0 +1,1 @@
+export 'package:s8_designs/pages/basic_design_page.dart';
